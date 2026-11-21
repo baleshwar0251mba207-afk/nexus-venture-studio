@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS Venture Studio",
+  "description": "Strategy dashboard for entrepreneurship sessions: Venture Bank, Venture Profile, and Competition & Positioning workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
